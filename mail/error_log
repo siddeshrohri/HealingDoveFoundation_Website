@@ -1,0 +1,24 @@
+[24-Oct-2021 19:37:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/healingd/public_html/mail/contact.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/healingd/public_html/mail/contact.php on line 21
+[24-Oct-2021 19:37:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/healingd/public_html/mail/contact.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/healingd/public_html/mail/contact.php on line 21
+[22-Apr-2022 04:06:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/healingd/public_html/mail/contact.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/healingd/public_html/mail/contact.php on line 21
+[22-Apr-2022 04:07:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/healingd/public_html/mail/contact.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/healingd/public_html/mail/contact.php on line 21
+[11-May-2022 15:51:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/healingd/public_html/mail/contact.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/healingd/public_html/mail/contact.php on line 21
+[26-Dec-2022 03:01:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/healingd/public_html/mail/contact.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/healingd/public_html/mail/contact.php on line 21
