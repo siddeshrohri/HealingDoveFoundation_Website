@@ -76,7 +76,7 @@
                         <a href="get-involved.html" class="nav-item nav-link">Get Involved</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
-                            <div class="dropdown-menu">
+                            <div class="dropdown-menu" id="dropdown-menu" id="dropdown-menu>
                                 <a href="features.html" class="dropdown-item">Feature Gallery</a>
                                 <a href="multimedia.html" class="dropdown-item">Multimedia</a>
                                 <a href="blog.html" class="dropdown-item">Blogs</a>
@@ -99,7 +99,7 @@
                     </div>
                     <div class="col-12">
                         <a href="index.html">Home</a>
-                        <a href="">Contact</a>
+                        <a href="contact.html">Contact</a>
                     </div>
                 </div>
             </div>
@@ -224,6 +224,7 @@
 
 <!-- Template Javascript -->
 <script src="js/main.js"></script>
+    <script src="/js/script.js"></script>
 <script>
     function error(){
     $('#success').html("<div class='alert alert-danger'>");
